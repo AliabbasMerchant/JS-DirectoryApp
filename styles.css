@@ -1,0 +1,45 @@
+* {
+    padding: 0%;
+}
+body {
+    margin: 0%;
+}
+#heading {
+    color: white;
+    background-color: black;
+    padding: 1%;
+    text-align: center;
+}
+table {
+    margin-top: 1%;
+    width: 100%;
+}
+td,th {
+    text-align: left;
+    width: 30%;
+}
+#add_screen {
+    padding: 1%;
+}
+#display_screen {
+    padding: 1%;
+}
+.button {
+    color: white;
+    background-color: #77C771;
+    display: inline;
+    padding: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-style: none;
+}
+.delete_button {
+    color: white;
+    background-color:#E57E97;
+    display: inline;
+    padding: 5px;
+    border-style: none;
+}
+.hide {
+    display: none;
+}
